@@ -1,0 +1,13 @@
+*
+!package.json
+!yarn.lock
+!prisma
+!schema
+!src
+!tsconfig*.json
+!global.d.ts
+!test
+!dist
+!node_modules
+!entrypoint.sh
+!locales

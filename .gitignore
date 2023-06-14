@@ -1,0 +1,14 @@
+node_modules
+.env*
+*.log
+dist
+*.tsbuildinfo
+logs
+.DS_Store
+tmp
+generated
+generated.*
+.npmrc
+.idea
+
+dynconf.local/
